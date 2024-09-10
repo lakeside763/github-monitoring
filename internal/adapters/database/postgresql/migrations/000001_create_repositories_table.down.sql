@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS "commits";
+
+DROP TABLE IF EXISTS "repositories";
+
+DROP EXTENSION IF EXISTS "uuid-ossp";
